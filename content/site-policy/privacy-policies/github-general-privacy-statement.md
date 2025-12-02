@@ -1,4 +1,4 @@
----
+.... Rafiwahidi5@gmail.com 
 title: GitHub General Privacy Statement
 redirect_from:
   - /privacy
